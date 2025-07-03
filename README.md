@@ -20,4 +20,4 @@ We believe computing can be reimagined using materials from nature — wood, alg
 We welcome artists, biologists, engineers, and curious humans to explore this path with us. Let’s build something alive and open.
 
 ## 📜 License
-MIT (or suggest another)
+GNU
